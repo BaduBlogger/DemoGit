@@ -1,0 +1,2 @@
+Hello first file in Git Local Repo
+v1
