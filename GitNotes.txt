@@ -1,0 +1,52 @@
+24.59
+Linux
+Kernel
+Flavours - (Dependencies Libraries different, Kernel same)
+Ubuntu and Red hat Centos (Package installer is different) (debian / rpm)
+
+cat /etc/*release* : To understand OS version etc.
+
+SSH (RDP) - remote access
+ssh -i ".pem" ubuntu@ip_address
+
+MobaXtream & putty
+
+Types of Shell (echo $SHELL)
+
+Directories
+
+Binaries srored /bin directory
+
+su (switch user) su root
+sudo
+sudo verse
+
+list dir (ls)
+
+clear
+mkdir -p maharashtra (rmdir)
+present working dir
+
+relative dir 
+~/
+touch
+cat
+touch 
+rm filename
+cp - copy paste
+mv -Rename , move, cut paste
+mv mytextFIlecpy.t
+rm -rf old/
+curl site - check the connectivity of server(displays on console) / wget - stores in file (-0 name)
+kubectl
+
+vi
+read only - cmd mode
+i - insert mode - write mode
+esc - cmd mode
+esc : w(save)
+:q! close
+/pune - find
+: wq! (save and close)
+grep
+
